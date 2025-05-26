@@ -28,3 +28,9 @@ The **Cat Loader** uses CSS animations and keyframes to bring a cat (or elements
 
 ```bash
 git clone https://github.com/robin-ivi/cat-loader.git
+
+```
+
+### Support Me
+[https://github.com/sponsors/robin-ivi/
+](https://github.com/sponsors/robin-ivi)
